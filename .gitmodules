@@ -1,0 +1,3 @@
+[submodule "s0-kicad-lib"]
+	path = s0-kicad-lib
+	url = git@gitli.stratum0.org:s0-kicad/s0-kicad-lib.git
