@@ -1,0 +1,27 @@
+Drill report for patchloop2.kicad_pcb
+Created on Sun 26 Feb 2023 14:58:56 CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  Front                     front
+    L2 :  Back                      back
+
+
+Drill file 'patchloop2-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (12 holes)
+    T2  1.000mm  0.0394"  (4 holes)
+    T3  1.050mm  0.0413"  (4 holes)
+    T4  1.500mm  0.0591"  (5 holes)
+    T5  3.200mm  0.1260"  (4 holes)
+
+    Total plated holes count 29
+
+
+Drill file 'patchloop2-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  1.900mm  0.0748"  (4 holes)
+
+    Total unplated holes count 4
