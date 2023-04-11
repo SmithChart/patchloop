@@ -1,9 +1,12 @@
 # patchloop
-Design files for the PatchLoop PCB
 
-The files patchloop2.kicad_* contain the version with RJ45 jacks on opposite sides. This allows for neat short traces between the jacks.
+This is a fork of the patchloop PCB from https://github.com/hennichodernich/ (DC4HP).
 
-I needed to rework the files patchloop.kicad_* (jacks on same side) because the first version contained a bug so that only one loop was used effectively.
+With this PCB you can build a broadband(?) 8 turn magloop antenna with just an UTP Ethernet cable.
 
-Licensed under CC BY-SA 3.0
- 
+Changes in my R2 vs the base design:
+
+* Using the s0-kicad-lib
+* Using a low-cost SMD RS45 jack
+* Placed all components on the same side for easy reflow / vapor phase soldering of most components
+
